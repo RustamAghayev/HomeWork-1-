@@ -1,4 +1,5 @@
 ﻿#region task 1
+//Console.WriteLine("4 reqemli eded daxil edin: ");
 //int a = int.Parse(Console.ReadLine());
 //int countlog = (int)Math.Log10(a) + 1;
 
@@ -12,6 +13,9 @@
 //{
 //    Console.WriteLine("eded 4 reqemli deyil");
 //}
+///*
+// 4 reqemli eded verilib. Bu ededin eveline 7 reqemini , axirinada 8 reqemini artir. Example1: 3333= 733338
+// */
 #endregion
 #region task 1 (v2)
 //int a = int.Parse(Console.ReadLine());
@@ -44,9 +48,12 @@
 //    int num2 = num1 * 1000 + num1;
 //    Console.WriteLine(num2);
 //}
+
+// 3 reqemli eded verilib. Bu ededin axirina hemin ededdin ozunu yapishdir. example:
+//333= 333333;
+// * 
 #endregion
 #region task 3
-//5 reqemli eded verilib. Bu ededin evvel  18 % sonra ise 3 % tap.
 //l1:
 //Console.WriteLine("5 reqemli ededi daxil edin");
 //string eded = (Console.ReadLine());
@@ -67,9 +74,9 @@
 //{
 //    Console.WriteLine("5 reqemli deyil!!!");
 //}
+//5 reqemli eded verilib. Bu ededin evvel  18 % sonra ise 3 % tap.
 #endregion
 #region task 4
-//3 reqemli eded verilib. Bu ededin axirina 7 artir. Sonra cavabin 7% tap;
 //l1:
 //Console.WriteLine("3 reqemli eded daxil edin:  ");
 //string eded = Console.ReadLine();
@@ -88,6 +95,7 @@
 //{
 //    Console.WriteLine("3 reqemli eded daxil edin");
 //}
+//3 reqemli eded verilib. Bu ededin axirina 7 artir. Sonra cavabin 7% tap;
 #endregion
 #region task 5
 //l1:
@@ -110,6 +118,7 @@
 //{
 //    Console.WriteLine("4 reqemli eded daxil etmedin");
 //}
+//4 reqemli eded verilib. Bu ededin evvelin 4 reqemi , axirina ise 44 ededini artir. Alinan cavabin 44 % tap.
 #endregion
 #region task 6
 //l1:
@@ -133,6 +142,8 @@
 //{
 //    Console.WriteLine("4 reqemli eded daxil etmedin");
 //}
+//4 reqemli eded verilib. Bu ededin evvel 20%-ni , sonra ise cavabin 10% tap.  Alinan  cavabin kvadratini tap.  
+
 #endregion
 #region task 7
 //l1:
@@ -176,11 +187,9 @@
 //int num5 = (num4 * 5 + num3) * 10 + 5;
 //double num6 = num5 * 5 / 100;
 //Console.WriteLine(num6);
-
+//2 dene 5 reqemli eded verilib. Bu ededleri toplayib. Alinan cavabin evveline ve axirina 5 artir. Neticenin 5 % tap
 #endregion
 #region task 8
-
-
 //l1:
 //Console.WriteLine("4 reqemli eded daxil edin:  ");
 //string eded1 = Console.ReadLine();
@@ -214,6 +223,11 @@
 //double num4 = num2 * 9 / 100;
 //double num5 = (num4 + num3) * 10 / 100;
 //Console.WriteLine(num5);
+
+//2 dene eded verilib. I eded 4 reqemli II eded 7 reqemlidir.
+//I ededin 4%-ni tap. 
+//  Sonra II ededin 9% ni tap. 
+//  Sonra Cavalari toplayib 10 %ni tap.
 #endregion
 #region task 9
 
@@ -275,7 +289,7 @@
 
 //double result5 = result4 * 10 / 100;
 //Console.WriteLine(result5);
-
+//3 dene 6 reqemli eded verilib. Her birinin 10 faizini tapib neticeleri topla. Alinan cavabin 10% tap.
 #endregion
 #region task 10
 //l1:
@@ -332,6 +346,8 @@
 //double result = (result1 - result2 - result3) + result4;
 
 //Console.WriteLine($"# reqemin faizlerinen toplanan netice {result}");
+//3 dene 4 reqemli eded verilib.  I ededin 1%-ni, II ededin 2% , III ededin 3 % tap. 
+ //   Neticeleri bir birinden cix. Alinan cavabin ustune III ededin 7% faizini gel
 
 #endregion
 #region task 11
